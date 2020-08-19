@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "web"
+		},
+		{
+			"path": "api"
+		}
+	],
+	"settings": {
+		"files.autoSaveDelay": 2000
+	}
+}
