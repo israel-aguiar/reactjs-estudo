@@ -93,13 +93,59 @@
       "promotionId": 2,
       "comment": "Novamente",
       "id": 6
+    },
+    {
+      "userId": 1,
+      "promotionId": 8,
+      "comment": "Comentário teste",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "promotionId": 8,
+      "comment": "Mais outro comentário",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "promotionId": 8,
+      "comment": "teste",
+      "parentId": 8,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "promotionId": 8,
+      "comment": "comentário nível 2",
+      "parentId": 9,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "promotionId": 8,
+      "comment": "teste 1",
+      "parentId": 7,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "comentário nível 1",
+      "parentId": 1,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "Vale à pena",
+      "id": 13
     }
   ],
   "users": [
     {
       "id": 1,
-      "name": "Vinicius",
-      "avatarUrl": "https://miro.medium.com/fit/c/128/128/1*nnGc80e_wr7RIjWPthx_cA.jpeg"
+      "name": "Philip",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/8.jpg"
     },
     {
       "id": 2,
