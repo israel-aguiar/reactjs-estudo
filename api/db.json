@@ -55,6 +55,20 @@
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/e24aaf7ea8c1cdbaab203ce6f6906916.png",
       "price": "29",
       "id": 8
+    },
+    {
+      "title": "Garrafa Térmica Aço - 350ml. - C/Alça Para Transporte, DMW Bags, 11798, Colorido",
+      "url": "https://amzn.to/334yxUv",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/2662355fe61b971834e47b883c92aaf6.png",
+      "price": "69",
+      "id": 9
+    },
+    {
+      "title": "Smartphone Samsung Galaxy Note 10 Lite Prata 128GB - Marketplace",
+      "url": "https://amzn.to/334yxUv",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/195e86c494ca05f179d8c19da989c3a1.png",
+      "price": "1859",
+      "id": 10
     }
   ],
   "comments": [
@@ -139,6 +153,20 @@
       "promotionId": 1,
       "comment": "Vale à pena",
       "id": 13
+    },
+    {
+      "userId": 1,
+      "promotionId": 8,
+      "comment": "teste 1.2",
+      "parentId": 7,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "promotionId": 8,
+      "comment": "teste 1.2",
+      "parentId": 8,
+      "id": 15
     }
   ],
   "users": [
